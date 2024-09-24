@@ -26,8 +26,6 @@ Welcome to **My Advanced Blog**, a platform where you can read articles on vario
 ## Key Functions :
      -  Navigation Menu: The navigation bar allows users to easily access different sections of the blog. It is collapsible on smaller screens for better usability.
           
-     -  Article Cards: Each article is displayed as a card that includes a title, brief description, and a "Read More" button, leading to detailed content (currently placeholders).
-          
      - Contact Form: Users can send messages through a simple contact form, which includes fields for name, email, subject, and message.
           
      - Scroll to Top Button: A button at the bottom right corner allows users to quickly scroll back to the top of the page.
